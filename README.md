@@ -2,7 +2,7 @@
 
 <h1>Liste des Bitchs existante:</h1>
 <h2>Eloi Biberon ou tétine ?</h2>
-<img>![image](eloi.jpg)
+<img src= "C:\Users\lotou\Downloads\death.png" />
 
 <p> Pourquoi est-ce une bitch ?</p>
 
