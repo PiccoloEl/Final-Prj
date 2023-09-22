@@ -1,9 +1,8 @@
 <html>
 
 <h1>Liste des Bitchs existante:</h1>
-<h2>Eloi Biberon ou tétine</h2>
-
-<img>![Alt text](image.png) 
+<h2>Eloi Biberon ou tétine ?</h2>
+<p>![Alt text](image.png)</P>
 
 <p> Pourquoi est-ce une bitch ?</p>
 
