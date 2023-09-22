@@ -18,4 +18,3 @@
 <p> Pourquoi est-ce une bitch ?</P>
 <p> -1- Il ne nous attend pas dans les escalier.</p> 
 <P> -2- Nous oblige à le rejoindre alors qu'on était en train de manger !! </p>
-
