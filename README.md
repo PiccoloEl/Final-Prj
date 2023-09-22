@@ -2,7 +2,7 @@
 
 <h1>Liste des Bitchs existante:</h1>
 <h2>Eloi Biberon ou tétine ?</h2>
-<img src= "![Eloi](https://github.com/PiccoloEl/MAMA-QUE-BUENA/assets/145793157/f120fd46-1fce-4572-bd55-8f79178bc974)/>
+<img>![image](image.png)
 
 <p> Pourquoi est-ce une bitch ?</p>
 
