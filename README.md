@@ -11,7 +11,7 @@
 <P>-2- De mère en fils. </p>
 <P>-3- Il a pu rentrer dans l'asso bière et pas moi.</p>
 
-<h2>Paul moreau rat</h2>
+<h2>Paul Moreau-rat</h2>
 
 <img>![image](image-1.png)
 
